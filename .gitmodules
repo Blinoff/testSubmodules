@@ -1,4 +1,4 @@
 [submodule "sub"]
 	path = sub
 	url = https://github.com/Blinoff/submodule.git
-	branch = Stable
+	branch = master
